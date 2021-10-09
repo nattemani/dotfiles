@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = nassim.attem@hotmail.com
+	name = Nassim Attemani
